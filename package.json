@@ -58,10 +58,10 @@
   "sass": "build/scss/adminlte.scss",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ColorlibHQ/AdminLTE.git"
+    "url": "git://github.com/pimhakkertgc/AdminLTE.git"
   },
   "bugs": {
-    "url": "https://github.com/ColorlibHQ/AdminLTE/issues"
+    "url": "https://github.com/pimhakkertgc/AdminLTE/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
